@@ -1,5 +1,6 @@
 #include <iostream>
-#include <SDL2/SDL.h>
+#include <SDL2
+
 
 // To test, move it out of the folder and make it main file. 
 
